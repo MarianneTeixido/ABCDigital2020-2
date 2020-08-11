@@ -132,12 +132,20 @@ Dependiendo de la demanda que tengan los programas o juegos a ejecutar es el tip
 
 Lista de computadoras recomendadas por carrera. 
  
-[Cine]
-[Moda]
-[Comunicación Visual]
+[Cine](https://github.com/MarianneTeixido/ABCDigital2020-2/blob/master/docs/Sugenrencia%20equipos%20para%20Cine.pdf)  
+[Comunicación Visual](https://github.com/MarianneTeixido/ABCDigital2020-2/blob/master/docs/Sugerencia%20de%20equipos%20CV.pdf)  
+[Moda](https://github.com/MarianneTeixido/ABCDigital2020-2/blob/master/docs/sugerencia%20de%20equipos%20moda-ago2020.pdf)  
 
-1.3 Periféricos: Cámaras, micrófonos, impresoras, scanners, discos de almacenamiento, etc.
-1.4 Optimización de la conexión a internet. 
-1.4.1 Cookies, historial, seguridad de conexión, velocidad de red y tipos de conexiones.
-1.5 Medios y tecnología de Centro. 
+
+Recomendación de equipos laptop pc gama alta:
+[https://www.nvidia.com/en-us/geforce/gaming-laptops/20-series/](https://www.nvidia.com/en-us/geforce/gaming-laptops/20-series/)  
+[https://www.msi.com/index.php](https://www.msi.com/index.php) 
+[https://www.razer.com/gaming-laptops](https://www.razer.com/gaming-laptops)
+
+
+Recomendación de equipos laptop pc gama media:  
+[https://www.lenovo.com/us/en/laptops/c/LAPTOPS#type=TYPE_ATTR4](https://www.lenovo.com/us/en/laptops/c/LAPTOPS#type=TYPE_ATTR4)  
+[https://www.asus.com/mx/Laptops/ASUS-Laptop-Series-Products/](https://www.asus.com/mx/Laptops/ASUS-Laptop-Series-Products/)  
+
+
 
