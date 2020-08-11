@@ -129,8 +129,7 @@ Dependiendo de la demanda que tengan los programas o juegos a ejecutar es el tip
 
 [Lista de las mejores tarjetas de video para el 2020](https://www.techradar.com/uk/news/computing-components/graphics-cards/best-graphics-cards-1291458)
 
-
-Lista de computadoras recomendadas por carrera. 
+## Recomendaciones para equipos de cómputo. 
  
 [Cine](https://github.com/MarianneTeixido/ABCDigital2020-2/blob/master/docs/Sugenrencia%20equipos%20para%20Cine.pdf)  
 [Comunicación Visual](https://github.com/MarianneTeixido/ABCDigital2020-2/blob/master/docs/Sugerencia%20de%20equipos%20CV.pdf)  
