@@ -2,7 +2,7 @@
 
 ![portada](https://github.com/MarianneTeixido/ABCDigital2020-2/blob/master/img/01.jpg)
 
-Objetivo: 
+## Objetivo
 - Identificará y clasificará en contextos computaciones o informáticos, los métodos, procesos y técnicas digitales que proveen marcos de trabajos facilitadores para profesiones creativas. 
 - Utilizará plataformas para mejorar la gestión personal digital y el trabajo colaborativo asistido por computadoras e internet.
 
