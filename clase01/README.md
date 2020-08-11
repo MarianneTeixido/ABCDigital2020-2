@@ -29,6 +29,7 @@ Más adelante retomaremos los elementos de hardware a considerar antes de compar
 
 ### Software 
 
+![software](https://github.com/MarianneTeixido/ABCDigital2020-2/blob/master/img/software.png)
 
 El software es virtual: se puede copiar, cambiar, actualizar. Es una colección de código de programación instalado en un dispositivo de hardware. En otras palabras, el hardware es algo que puede sostener en su mano, mientras que el software no se puede sostener en su mano. Podemos tocar el hardware, pero no el software. El hardware es físico y el software es virtual.
 
@@ -41,13 +42,6 @@ Algunos ejemplos de software son:
 - Herramientas de antivirus. 
 
 ¿Qué otros software conoces o usas?
-
-#### Ejemplo
-
-El monitor de la computadora que están usando para leer este texto y el mouse para navegar por esta página web son hardware de la computadora. 
-
-El navegador de Internet que le permite ver esta página y el sistema operativo en el que se ejecuta el navegador se consideran software. 
-
 
 
 
