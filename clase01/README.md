@@ -107,8 +107,35 @@ Lo recomendable es usar memorias RAM con capacidad mínima de 8GB. Las memorias 
 Algunas de las marcas con mejor ranking en el mercado son: Corsair, Kingston HyperX, Crucial Ballistix. Para más información dar click [aquí](https://www.techradar.com/news/best-ram)
 
 
+### Disco Duro o Unidad de Estado Solido
 
-1.2 RAM, tarjetas gráficas, procesadores, pantallas, tarjetas madre. 
+![hard](https://github.com/MarianneTeixido/ABCDigital2020-2/blob/master/img/hard.jpeg)
+
+El Disco Duro o _Hard Drive_ es un dispositivo de almacenamiento permanente de datos de gran capacidad donde se guarda la mayoría de la información en una computadora desde el sistema operativo, programas y archivos y está formado por varias partes incluyendo un disco giratorio. 
+
+A la par existen las unidades de estado sólido o SSD (_Solid State Drive_) que son una versión de tecnología mas avanzada.
+
+![ssd](https://github.com/MarianneTeixido/ABCDigital2020-2/blob/master/img/ssd.jpeg)
+
+Mientras que los discos duros son componentes mecánicos, de mayor tamaño y menor velocidad, las unidades de estado solido son los dispositivos de almacenamiento más rápidos ya que al carecer de piezas móviles, se reduce drásticamente el tiempo de búsqueda y son muy resistentes al ser inmunes a las vibraciones a comparación de las fallas que pueden presentar los discos duros por desajustes o quiebres de las piezas mecánicas internas. Los discos duros son más económicos que las unidades de estado sólido por tener características más sencillas, pero las unidades de estado sólido representan una mejor inversión a largo plazo.
+
+### Tarjeta de Video
+
+![video](https://github.com/MarianneTeixido/ABCDigital2020-2/blob/master/img/video.jpeg)
+
+La tarjeta de video o GPU (_Graphics Processing Unit_ o Unidad de Procesamiento Grafico) se encarga de procesar los datos provenientes del CPU para interpretarlos y transformarlos en información representable en gráficos como el monitor o pantalla.
+
+Dependiendo de la demanda que tengan los programas o juegos a ejecutar es el tipo de tarjeta de video que se debe usar en una computadora.
+
+[Lista de las mejores tarjetas de video para el 2020](https://www.techradar.com/uk/news/computing-components/graphics-cards/best-graphics-cards-1291458)
+
+
+Lista de computadoras recomendadas por carrera. 
+ 
+[Cine]
+[Moda]
+[Comunicación Visual]
+
 1.3 Periféricos: Cámaras, micrófonos, impresoras, scanners, discos de almacenamiento, etc.
 1.4 Optimización de la conexión a internet. 
 1.4.1 Cookies, historial, seguridad de conexión, velocidad de red y tipos de conexiones.
