@@ -8,7 +8,9 @@
 
 ## Sesiones
 
-- [x] [Clase 01. Cómputo personal en contextos creativos](https://github.com/MarianneTeixido/ABCDigital2020-2/tree/master/clase01/README.md)
+- [x] [Clase 01. Cómputo personal en contextos creativos](https://github.com/MarianneTeixido/ABCDigital2020-2/tree/master/clase01/README.md)  
+
+- [x] [Clase 02. Productividad, gestión personal digital y trabajo colaborativo](https://github.com/MarianneTeixido/ABCDigital2020-2/tree/master/clase02/README.md)  
 
 ## Actividades de aprendizaje
 
