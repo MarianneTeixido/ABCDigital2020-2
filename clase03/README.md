@@ -58,7 +58,7 @@ Directorio raíz.
 Subir a brightspace un archivo comprimido con lo siguiente: 
 
 - 1 img en png con alpha
-- 1 img con jpp 
+- 1 img en jpp 
 - 1 archivo de audio
 - 1 video
 - 1 pdf
