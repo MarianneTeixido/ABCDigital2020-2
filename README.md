@@ -18,14 +18,14 @@
 
 ## Actividades de aprendizaje
 
-Bajo conducción docente. 
-	- Discusiones colectivas y proyección de material gráfico y audiovisual. 
-	- Ejercicios de demostración. 
-	- Proyectos de colaboración en línea. 
+Bajo conducción docente.   
+	- Discusiones colectivas y proyección de material gráfico y audiovisual.   
+	- Ejercicios de demostración.   
+	- Proyectos de colaboración en línea.   
 
-Independiente. 
-	- Ejercicios de perfeccionamiento. 
-	- Producir entregables individuales y grupales en formatos digitales. 
+Independiente.   
+	- Ejercicios de perfeccionamiento.   
+	- Producir entregables individuales y grupales en formatos digitales.   
 	
 
 
