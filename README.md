@@ -14,6 +14,8 @@
 
 - [x] [Clase 04. Trabajo con archivos](https://github.com/MarianneTeixido/ABCDigital2020-2/tree/master/clase03/README.md)  
 
+- [x] [Clase 05. Cultura digital y ciberseguridad](https://github.com/MarianneTeixido/ABCDigital2020-2/tree/master/clase04/README.md)  
+
 ## Actividades de aprendizaje
 
 Bajo conducción docente. 
