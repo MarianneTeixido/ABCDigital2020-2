@@ -14,14 +14,15 @@ Recomendaciones generales. Usar números y mayúsculas.
  ![fb](https://github.com/MarianneTeixido/ABCDigital2020-2/blob/master/img/fb.png)  
  ![fb](https://github.com/MarianneTeixido/ABCDigital2020-2/blob/master/img/tiktok.png)  
 
-Condiciones de uso.   
+- Condiciones de uso.   
 "Gratuidad" vs información personal.   
-Ejemplos.   
+
+- Ejemplos.   
 ¿Con quién compartes información y qué tipo de información?  
 [Ana Baquedano](https://www.bbc.com/mundo/noticias-internacional-47938198) y [Ley Olimpia](http://ordenjuridico.gob.mx/violenciagenero/LEY%20OLIMPIA.pdf)   
 [Phishing](https://es.wikipedia.org/wiki/Phishing)  
-Datos en el arte: [Lev Manovich](http://www.on-broadway.nyc/)
 
+- Datos en el arte: [Lev Manovich](http://www.on-broadway.nyc/)
 
 ## [Tipos de software según derechos de autor](https://www.gnu.org/philosophy/categories.en.html)
 
