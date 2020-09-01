@@ -46,8 +46,9 @@ Recomendaciones generales. Usar números y mayúsculas.
 - [Yandex](https://yandex.ru/)
 
  ![webs](https://github.com/MarianneTeixido/ABCDigital2020-2/blob/master/img/websites.jpg)  
+
  
-Nota: Cámara de ecos
+Nota: [Guerra de Navegadores](https://es.wikipedia.org/wiki/Guerra_de_navegadores) y [Cámara de eco](https://es.wikipedia.org/wiki/Guerra_de_navegadores).
 
 ## [Tipos de software según derechos de autor](https://www.gnu.org/philosophy/categories.en.html)
 
