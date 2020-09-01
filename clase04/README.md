@@ -33,7 +33,7 @@ Recomendaciones generales. Usar números y mayúsculas.
 - Brave
 - Opera
 
-[Los navegadores más seguros en 2020](https://es.vpnpro.com/blog/navegadores-web-seguros/)
+[Los navegadores más seguros en 2020](https://es.vpnpro.com/blog/navegadores-web-seguros/)  
 [Los mejores navegadores web en 2020](https://es.digitaltrends.com/computadoras/mejores-navegadores-web/)
 
 ## [Buscadores](https://en.wikipedia.org/wiki/Web_search_engine)
@@ -41,8 +41,8 @@ Recomendaciones generales. Usar números y mayúsculas.
 - Google
 - Bing
 - Yahoo!
-- Baidu
-- Duck Duck Go 
+- [Baidu](https://www.baidu.com/)
+- [Duck Duck Go](https://duckduckgo.com/) 
 - [Yandex](https://yandex.ru/)
 
  ![webs](https://github.com/MarianneTeixido/ABCDigital2020-2/blob/master/img/websites.jpg)  
