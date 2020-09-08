@@ -16,6 +16,10 @@
 
 - [x] [Clase 04. Cultura digital y ciberseguridad](https://github.com/MarianneTeixido/ABCDigital2020-2/tree/master/clase04/README.md)  
 
+- [x] [Clase 05. Recursos complementarios para el aprendizaje en línea. ](https://github.com/MarianneTeixido/ABCDigital2020-2/tree/master/clase05/README.md)  
+
+- [ ] [Guia de estudio](https://github.com/MarianneTeixido/ABCDigital2020-2/tree/master/guiadeestudio/README.md)  
+
 ## Actividades de aprendizaje
 
 Bajo conducción docente.   
