@@ -41,5 +41,7 @@
 - Carteles  
 - Generadores de bibliografía   
 
+¿Cuáles conoces? Agrégalos [AQUÍ](https://docs.google.com/document/d/1fP7lERa7KtsxjVckpgdkrbmVpOxMFuXpUwq3f8q9wVE/edit?usp=sharing)
+
 
 
