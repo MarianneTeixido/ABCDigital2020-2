@@ -9,17 +9,17 @@
 
 ## Tipos de licencias. 
 
-[Copyright](https://es.wikipedia.org/wiki/Derecho_de_autor)   
-[Copyleft](https://www.gnu.org/licenses/copyleft.es.html)   
-[Licencias de Software Libre](https://www.gnu.org/licenses/licenses.html)   
-[Creative Commons](https://creativecommons.org/about/cclicenses/)  
-[Dominio Público](https://es.wikipedia.org/wiki/Dominio_p%C3%BAblico)  
+- [Copyright](https://es.wikipedia.org/wiki/Derecho_de_autor)   
+- [Copyleft](https://www.gnu.org/licenses/copyleft.es.html)   
+- [Licencias de Software Libre](https://www.gnu.org/licenses/licenses.html)   
+- [Creative Commons](https://creativecommons.org/about/cclicenses/)  
+- [Dominio Público](https://es.wikipedia.org/wiki/Dominio_p%C3%BAblico)  
 
 
 
 ## Búsquedas, navegación y fuentes.   
    
- -  [http://images.webofknowledge.com/WOKRS5251R3/help/es_LA/WOK/hs_search_operators.html#:~:text=Los%20operadores%20de%20b%C3%BAsqueda%20AND,or%20devuelven%20los%20mismos%20resultados.](Navegación, inteligencia de búsqueda.)   
+- [Navegación, inteligencia de búsqueda.](http://images.webofknowledge.com/WOKRS5251R3/help/es_LA/WOK/hs_search_operators.html#:~:text=Los%20operadores%20de%20b%C3%BAsqueda%20AND,or%20devuelven%20los%20mismos%20resultados.)  
 - Fuentes confiables y bases de datos académicos. (Mediateca Online, CENTRO)  
 - Audio  
 - Video   
@@ -29,12 +29,12 @@
 
 ### Conversor de documentos en línea.
 
-- Imagen   
-- Texto   
-- Audio  
-- Video   
+- [Imagen](https://imagen.online-convert.com/es)  
+- [Texto](https://www.onlineocr.net/es/)  
+- [Audio](https://online-audio-converter.com/es/)  
+- [Video](https://convert-video-online.com/es/)   
 
-### Herramientas rápidas de diseño online. 
+### [Herramientas rápidas de diseño online.](https://marketing4ecommerce.net/mejores-herramientas-de-diseno-imprescindibles-en-tu-estrategia-online/) 
 
 - Mapas mentales  
 - Infografías  
